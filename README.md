@@ -28,6 +28,7 @@
 * Search Engine optimization of our online presence.
 * Website Management
 * Content creation for blogs on Website
+------------------------------------------------------------------------
 ##### NOVEMBER 2019 - TILL DATE         
 ##### DIGITAL MARKETER
 ##### BEACONHILL DENTAL CLINIC
@@ -38,7 +39,7 @@
 * Search Engine optimization of our online presence.
 * Website Management
 * Content creation for blogs on Website
-
+------------------------------------------------------------------------
 ##### JUNE 2020 - TILL DATE         
 ##### DIGITAL MARKETER
 ##### VISIONCRAFT EYE CLINIC
@@ -49,3 +50,25 @@
 * Search Engine optimization of our online presence.
 * Website Management
 * Content creation for blogs on Website
+------------------------------------------------------------------------
+##### APRIL 2013 - 2019
+##### COMPUTER ENGINEER CONSULTANT
+##### PISON TECH Lagos
+##### Sale of computer gadgets, accessories, parts. Fixing of damaged or faulty computers, computer networking engineer and software maintenance.
+* Computer repairs and maintenance
+* Sales of Computers and its accessories
+* Software maintenance
+* Computer networking
+------------------------------------------------------------------------
+### <u>EDUCATIONAL QUALIFICATIONS</u>
+#### - DIGITAL MARKETING EXPERT
+##### UDEMY CERTIFIED (2019)
+#### - Bsc in Computer Science (2012)
+#### University of Lagos
+#### WAEC Certificate
+#### Marist Compreshensive Acaeemy, Uturu
+#### - First School LIving Certificate (1995)
+#### GBPS Garoua, Cameroun.
+------------------------------------------------------------------------
+### <u>Additional Information</u>
+#### IT Skills: Proficient in Microsoft office package, Python Programming and Data analysis.
