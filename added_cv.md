@@ -27,7 +27,7 @@
 * Email content creation and marketing.
 * Search Engine optimization of our online presence.
 * Website Management
-* Content creation for blogs on Website
+* Content creation for blogs on Website.
 ------------------------------------------------------------------------
 ##### NOVEMBER 2019 - TILL DATE         
 ##### DIGITAL MARKETER
